@@ -1,0 +1,51 @@
+region,truck_search,states,conservative_rate
+Alabama,78,Alabama,53
+Alaska,62,Alaska,50
+Arizona,61,Arizona,41
+Arkansas,85,Arkansas,50
+California,50,California,29
+Colorado,63,Colorado,37
+Connecticut,50,Connecticut,31
+Delaware,56,Delaware,36
+Florida,56,Florida,41
+Georgia,70,Georgia,41
+Hawaii,51,Hawaii,29
+Idaho,80,Idaho,53
+Illinois,58,Illinois,33
+Indiana,69,Indiana,44
+Iowa,74,Iowa,43
+Kansas,71,Kansas,48
+Kentucky,76,Kentucky,51
+Louisiana,74,Louisiana,49
+Maine,69,Maine,42
+Maryland,48,Maryland,30
+Massachusetts,44,Massachusetts,27
+Michigan,64,Michigan,40
+Minnesota,60,Minnesota,37
+Mississippi,86,Mississippi,48
+Missouri,71,Missouri,47
+Montana,86,Montana,52
+Nebraska,75,Nebraska,49
+Nevada,57,Nevada,42
+New Hampshire,61,New Hampshire,42
+New Jersey,44,New Jersey,34
+New Mexico,72,New Mexico,35
+New York,44,New York,30
+North Carolina,69,North Carolina,40
+North Dakota,88,North Dakota,57
+Ohio,64,Ohio,45
+Oklahoma,80,Oklahoma,53
+Oregon,62,Oregon,36
+Pennsylvania,59,Pennsylvania,42
+Rhode Island,48,Rhode Island,32
+South Carolina,67,South Carolina,48
+South Dakota,77,South Dakota,54
+Tennessee,76,Tennessee,50
+Texas,70,Texas,39
+Utah,69,Utah,48
+Vermont,60,Vermont,26
+Virginia,57,Virginia,37
+Washington,61,Washington,34
+West Virginia,81,West Virginia,61
+Wisconsin,67,Wisconsin,41
+Wyoming,100,Wyoming,57
